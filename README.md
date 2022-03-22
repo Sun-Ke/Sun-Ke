@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I’m currently studying at Beijing Normal University
+
+---
+### 🏆 Contest Experience
+[Competitive Programming Hall of Fame](https://cphof.org/profile/icpc:Ke%20Sun)
+
+[ICPC](https://icpc.global/ICPCID/T347GG7K2L1H) | CCPC | [Codeforces](https://codeforces.com/profile/Forever_you) | [Project Euler](https://projecteuler.net/profile/Forever_you.png)
