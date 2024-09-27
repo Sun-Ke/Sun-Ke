@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I’m currently working at TuSimple in Beijing.
+- 🎓 I’m currently working at ESBNU in Beijing.
 
 ---
 ### 🏆 Contest Experience
